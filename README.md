@@ -25,4 +25,4 @@ Important:
   ]
 }]
 
-Also, the certs in the example were self-signed and generated from my laptop. I left them in as samples but you should replace them with publicly created objects via a 3rd party signer. 
+Also, the certs in the example were self-signed and generated from my laptop. I left them in as samples but you should replace them with publicly created objects via a 3rd party signer. The password for the example certs used is just "test"
